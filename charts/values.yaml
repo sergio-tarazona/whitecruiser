@@ -3,7 +3,7 @@ cluster:
 
 cloudprovider: openstack
 
-cloudCredentialSecretName: ocp2
+cloudCredentialSecretName: starazona
 
 nodepools:
   - etcd: true
